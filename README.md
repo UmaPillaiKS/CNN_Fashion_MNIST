@@ -15,7 +15,7 @@ Getting Started
 To run this project, follow these steps:
 
 Download the Fashion MNIST Dataset:
-Download the Fashion MNIST dataset from this link.
+Download the Fashion MNIST dataset from this [link](https://github.com/zalandoresearch/fashion-mnist#get-the-data).
 Extract the Dataset:
 Extract the downloaded dataset archive to a folder of your choice.
 Preprocess the Data:
